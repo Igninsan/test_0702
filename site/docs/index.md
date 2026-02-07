@@ -22,9 +22,5 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
 ```yaml
 theme:
-    name: readthedocs
-    highlightjs: true
-    hljs_languages:
-        - yaml
-        - rust
+    name: kpn
 ```
